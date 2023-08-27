@@ -1,1 +1,1 @@
-# simple_calculator
+A simple calculator is a basic electronic device or application designed to perform mathematical operations like addition, subtraction, multiplication, and division. It typically consists of a keypad with numerical digits and function buttons, a display screen to show the input and results, and a memory feature to store temporary values. Users can input numbers and select operations using the keypad, and the calculator provides the corresponding calculation results on the display screen. It's commonly used for quick and straightforward arithmetic tasks.
